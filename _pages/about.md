@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Researcher and Ethical AI enthusiast. <a href='https://www.instagram.com/molanmusk/'>Be a friend :)</a>. 
+subtitle: AI Researcher and Ethical AI enthusiast. <a href='https://www.instagram.com/molanmusk/'>Click here to be my friend :)</a>. 
 
 profile:
   align: right
@@ -14,8 +14,12 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+posts: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-A professional AI researcher with very good entrepreneurial skills. Proficient in NLP, and can work with programming languages and technologies such as - Python, R, JSON, Deep Learning, Machine Learning, Transformers, Haystack, Pandas, Sklearn, Pytorch, Tensorflow, FastAI, OpenCV, Detectron2, BERT, and more. Has a proven track record of entrepreneurial ventures through building startups from scratch, working with early-stage startups, and winning startup and business competitions. Has degrees in both Engineering and Business with a motto of applying science diligently and
-ethically to help build a happy, functional society. 
+I live in Europe, originally from India❤️. I build AI models for businesses and conducted comprehensive research on AI and general economics. I studied engineering at [PES University](https://pes.edu/) and business at the [University of Limerick](https://www.ul.ie/).
+
+Previously, I have worked as a gym instructor and  I have held artificial intelligence and data related roles at [Altada](https://www.altada.com/) and [StatsPerform](https://www.statsperform.com/) 
+
+My goal is to find satisfying solutions to life's metaphysical concerns, but I recognize that this is an impossible endeavor. Meanwhile, my goal is to contribute to humanity's comprehension of the aforementioned questions, to observe the boundary conditions of the human experience, and to live a life to the maximum entorpy.

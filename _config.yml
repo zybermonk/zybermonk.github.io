@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -101,9 +101,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Mohan's work # blog_name will be displayed in your blog page
+blog_name: My work # blog_name will be displayed in your blog page
 blog_nav_title: research # your blog must have a title for it to be displayed in the nav bar
-blog_description: Work of a science enthusiast. Feel free to critique and improve any material, everything on this site is free to use.
+blog_description: This is the work of a science enthusiast. Feel free to critique and improve any material, everything on this site is free to use.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -111,15 +111,15 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: 
+    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -213,7 +213,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['artificial intelligence', 'data', 'business', 'economics', 'general'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
