@@ -2,7 +2,7 @@ github_users:
   - neuromancer24
 
 github_repos:
-  - neuromancer24.github.io
-  - AI4code_Kaggle
-  - deepset-ai/haystack
-  - coding-interview-university
+  - Neuromancer24/haystack
+  - Neuromancer24/AI4code_Kaggle
+  - Neuromancer24/text-analytics-with-python
+  - Neuromancer24/coding-interview-university
