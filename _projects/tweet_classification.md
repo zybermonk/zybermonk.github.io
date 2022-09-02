@@ -2,7 +2,7 @@
 layout: page
 title: Tweet classification
 description: a basic algorithm that detects disasters from twitter feeds
-img: assets\img\projects\tweet\twt.jpg
+img: assets/img/projects/tweet/twt.jpg
 importance: 2
 category: work
 ---
