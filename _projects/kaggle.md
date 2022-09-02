@@ -4,7 +4,7 @@ title: Housing price prediction
 description: an inter university kaggle competetion
 img: assets/img/projects/kaggle/housing_crash.jpg
 importance: 1
-category: work
+category: fun
 ---
 - Author: Mohan Ramesh
 - University of Limerick private competetion
