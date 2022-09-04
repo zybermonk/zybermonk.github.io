@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Watch this space for information on past, current and future projects.
+description: Watch this space for information on past, current and future projects. Repos are being updated!
 nav: true
 nav_order: 3
 ---
