@@ -4,7 +4,7 @@ title: Topic modeling
 description: An unsupervised clustering example project
 img: assets/img/projects/topic/cluster.jpg
 importance: 1
-category: work
+category: fun
 ---
 - Author: Mohan Ramesh
 

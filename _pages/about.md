@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Researcher and Ethical AI enthusiast. <a href='https://www.instagram.com/molanmusk/'>Click here</a> to be my friend :). 
-
+subtitle: Researcher - Deep Learning.
 profile:
   align: right
-  image: prof.png
+  image: prof_.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>P.O - Limerick and Berlin</p>
+    <p>P.O - **** </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-posts: false
+posts: true
+tweets: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I live in Europe, originally from India❤️. Currently, I build AI models for businesses and conduct comprehensive research on AI and general economics. I studied engineering at [PES University](https://pes.edu/) and business at the [University of Limerick](https://www.ul.ie/).
+I live in Europe, originally from India. Currently, I build AI models for businesses and conduct comprehensive research on AI and general economics. I studied engineering at [PES University](https://pes.edu/) and business at the [University of Limerick](https://www.ul.ie/).
 
 Previously, I have worked as a gym instructor and  I have held artificial intelligence and data related roles at [Altada](https://www.altada.com/) and [StatsPerform](https://www.statsperform.com/) 
 

@@ -1,15 +1,15 @@
     
           <div class="posts">
-            <h2>Featured research</h2>
+            <h2>Featured writing</h2>
             {% if site.posts != blank -%} 
             {%- assign posts_size = site.posts | size -%}
             <div class="table-responsive" {% if site.posts_scrollable and posts_size > 3 %}style="max-height: 10vw"{% endif %}>
               <table class="table table-sm table-borderless">
-              {%- assign posts = site.posts | reverse -%}
+              {%- assign posts = site.posts -%}
               {% if site.posts_limit %}
               {% assign posts_limit = site.posts_limit %}
               {% else %}
-              {% assign posts_limit = posts_size %}
+              {% assign posts_limit = 3 %}
               {% endif %}
               {% for item in posts limit: posts_limit %} 
                 <tr>

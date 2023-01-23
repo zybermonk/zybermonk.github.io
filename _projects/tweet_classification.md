@@ -4,7 +4,7 @@ title: Tweet classification
 description: a basic algorithm that detects disasters from twitter feeds
 img: assets/img/projects/tweet/twt.jpg
 importance: 2
-category: work
+category: fun
 ---
 
 **TWEET CLASSIFICATION: DISASTER DETECTION**

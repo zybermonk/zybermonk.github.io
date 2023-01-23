@@ -21,4 +21,5 @@ end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
+    #gem 'external_posts', :path => '_plugins'
 end

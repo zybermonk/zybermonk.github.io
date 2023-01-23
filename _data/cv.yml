@@ -6,13 +6,20 @@
     - name: Date of Birth
       value: 6th August 1997
     - name: Technologies
-      value: Python, R, JSON, Deep Learning(NN), Machine Learning, Transformers, Huggingface, Haystack, Pandas, Sklearn, Pytorch, Tensorflow, FastAI, OpenCV, Detectron2, BERT, PowerBI, Web development (html+css), Docker, AWS, GCP, Azure, Blockchain (Solidity, Truffle) and more
+      value: Deep Learning, Machine Learning, Blockchain, Computer Vision, Natural Language Processing, Perception and Simulaiton
     - name: Languages
       value: English, German, Kannada, Telugu, Tamil, Malayalam
 
 - title: Education
   type: time_table
   contents:
+    - title: PhD candidate*
+      institution: TBD*
+      year: 2023*
+      description:
+        - Autonomous Driving.
+        - Deep Learning.
+        - Multimodal sensor fusion
     - title: Master of Science
       institution: University of Limerick, Limerick, Ireland
       year: 2022
