@@ -5,27 +5,25 @@
       value: Mohan Ramesh
     - name: Date of Birth
       value: 6th August 1997
-    - name: Technologies
-      value: Deep Learning, Machine Learning, Blockchain, Computer Vision, Natural Language Processing, Perception and Simulaiton
     - name: Languages
       value: English, German, Kannada, Telugu, Tamil, Malayalam
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD candidate*
-      institution: TBD*
+    - title: Ph.D candidate*
+      institution: Hochschule München*, Germany
       year: 2023*
       description:
-        - Autonomous Driving.
         - Deep Learning.
-        - Multimodal sensor fusion
+        - Sensor Fusion
+        - Autonomous Driving.
     - title: Master of Science
       institution: University of Limerick, Limerick, Ireland
       year: 2022
       description:
         - Business.
-        - Artificial Intelligence.
+        - Machine Learning.
         - Data Analytics.
         
     - title: Bachelor of Technology
@@ -38,11 +36,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Researcher - Deep Learning
+      institution: Institut für Anwendungen des maschinellen Lernens und intelligenter Systeme, Germany
+      year: 2023 - xxxx
+      description:
+        - Perception and Planning
+        - Simulation and Prediction.
+        - Computer Vision. 
     - title: Data Scientist
       institution: Alatada, Ireland
       year: 2021 - 2022
       description:
         - Document Intelligence.
+        - Computer Vision.
         - Natural Language Processing. 
     - title: Data Analyst and Engineer
       institution: Statsperform, Ireland
@@ -57,14 +63,17 @@
     - title: Artificial Intelligence.
       items: 
         - Natural Language Processing.
-        - AI Ethics.
+        - Computer Vision
+        - Transformers
     - title: Systems Neuroscience.
       items:
         - Brain-computer interface.
+        - Cybernetics
     - title: Dystopian Literature.
       items:
         - Leadership.
         - Economics.
+        - AI Ethics.
 
 - title: Other Interests
   type: list
