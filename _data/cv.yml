@@ -11,12 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D candidate*
+    - title: Ph.D
       institution: Hochschule München*, Germany
       year: 2023*
       description:
         - Deep Learning.
-        - Sensor Fusion
+        - Simulation
         - Autonomous Driving.
     - title: Master of Science
       institution: University of Limerick, Limerick, Ireland
@@ -40,9 +40,9 @@
       institution: Institut für Anwendungen des maschinellen Lernens und intelligenter Systeme, Germany
       year: 2023 - xxxx
       description:
-        - Perception and Planning
-        - Simulation and Prediction.
-        - Computer Vision. 
+        - Artificial Intelligence
+        - Simulation.
+        - Autonomous Driving. 
     - title: Data Scientist
       institution: Alatada, Ireland
       year: 2021 - 2022

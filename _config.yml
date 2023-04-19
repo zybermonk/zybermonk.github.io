@@ -6,7 +6,7 @@ title: blank #blank is to use the name as title
 first_name: Mohan
 middle_name:
 last_name: Ramesh
-email: iam.mohanramesh@gmail.com
+email: mohan.ramesh@hm.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A space to document and discuss science and life!
 #footer_text: >

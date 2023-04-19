@@ -5,10 +5,9 @@ permalink: /
 subtitle: Researcher - Deep Learning.
 profile:
   align: right
-  image: new.png
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>P.O - Munich* </p>
+  image: mo.JPG
+  image_circular: true # crops the image to make it circular
+  #address: <p> Munich </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -17,7 +16,8 @@ tweets: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I live in Europe, originally from India. Currently, I am in the pursuit of my Ph.D in Deep Learning. I will be working on visual perception, simulation, prediction and planning for autnomous machines. 
+I live in Munich, originally from India. I work as a Researcher at [Hochschule München](https://www.hm.edu/sites/iamlis/). Currently, I am in the pursuit of my Ph.D in Deep Learning. I will be working on simulation and artificial intelligence for autnomous machines. 
+
 
 I studied Engineering at [PES University](https://pes.edu/) and Business at the University of Limerick's, [Kemmy Business School](https://www.ul.ie/business). 
 
