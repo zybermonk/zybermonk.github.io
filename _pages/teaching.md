@@ -7,5 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of my courses. I shall convert it to a collection similar to `blogs/` so that I can have a dedicated page for each course I shall be teaching in the future.
+Simulation for Autonomous Driving at [Intelligent Vehicles Lab](https://iv.ee.hm.edu/)
 
